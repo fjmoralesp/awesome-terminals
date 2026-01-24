@@ -3,7 +3,8 @@ Terminal Emulators
 
 ### Android
 - [Termux](https://termux.com/) - Termux is an Android terminal emulator and Linux environment app that works directly with no rooting or setup required.
-
+- [Android Terminal](https://source.android.com/docs/whatsnew/android-16-release#virtualization) - A built-in system app for running a Linux development environment within a virtual machine on Android.
+- 
 ### iOS
 - [a-Shell](https://holzschu.github.io/a-Shell_iOS/) - A terminal for iOS, with multiple windows
 - [Blink Shell](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based) [https://blink.sh](https://blink.sh)
@@ -51,6 +52,7 @@ Terminal Emulators
 - [yaft](https://github.com/uobikiemukot/yaft) - yet another framebuffer terminal.
 - [Yakuake](https://www.kde.org/applications/system/yakuake/) - Yakuake is a drop-down terminal emulator based on KDE Konsole technology.
 - [Zutty](https://github.com/tomscii/zutty) - Unicode terminal with correct VT emulation that uses OpenGL ES Compute Shaders.
+- [kiro](https://github.com/AnmiTaliDev/kiro) - A GTK4 and LibAdwaita terminal emulator designed for the GNOME desktop.
 
 ### macOS
 - [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
