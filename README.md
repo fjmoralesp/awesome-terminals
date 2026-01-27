@@ -4,6 +4,9 @@ Terminal Emulators
 ### Android
 - [Termux](https://termux.com/) - Termux is an Android terminal emulator and Linux environment app that works directly with no rooting or setup required.
 
+### HarmonyOS
+- [Termony](https://github.com/TermonyHQ/Termony) - Termux for HarmonyOS Computer
+
 ### iOS
 - [a-Shell](https://holzschu.github.io/a-Shell_iOS/) - A terminal for iOS, with multiple windows
 - [Blink Shell](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based) [https://blink.sh](https://blink.sh)
