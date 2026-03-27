@@ -138,6 +138,7 @@ Terminal Emulators
  - [has](https://github.com/kdabir/has) - ✅ checks presence of various command line tools and their versions on the path.
  - [lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
  - [neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+.
+ - [passtui](https://github.com/fjmoralesp/passtui) The terminal user interface for [pass](https://www.passwordstore.org/), the standard unix password manager
  - [prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read. [http://denilsonsa.github.io/prettyping](http://denilsonsa.github.io/prettyping)
  - [pwd.sh](https://github.com/drduh/pwd.sh) - GPG symmetric password manager.
  - [p2pvc](https://github.com/mofarrell/p2pvc) - A point to point color terminal video chat.
